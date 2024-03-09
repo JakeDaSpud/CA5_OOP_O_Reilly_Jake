@@ -1,4 +1,4 @@
--- Jake O'Reilly made this file
+-- File by Jake O'Reilly
 
 -- Drop check and create database
 drop database if exists instrumentShopDB;
@@ -10,7 +10,7 @@ create table Instruments (
     id int auto_increment primary key,
     name varchar(255),
     price float,
-    type varchar(6), -- GUITAR || PIANO || DRUM || WIND
+    type varchar(6) -- GUITAR || PIANO || DRUM || WIND
 );
 
 -- Populate the instrument table
