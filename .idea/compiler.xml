@@ -10,7 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OOP_CA5_Jake_OReilly" target="19" />
+      <module name="OOP_CA5_Jake_OReilly (1)" target="19" />
+      <module name="OOP_CA5_Jake_OReilly (2)" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
